@@ -1,6 +1,6 @@
 # Phitron
 
-# Phitron
+# Course Outline
 
 ## Course 1: <a href="#"> Introduction to Programming Language & Problem Solving Part-I</a>
 
@@ -181,7 +181,7 @@
     </ul>
 </details>
 
-## Course 5: <a href="#"> OOP And Python Programming </a>
+## Course #: <a href="#"> OOP And Python Programming </a>
 
 <details>
 <summary>Week 1: Introduce To Python</summary>
@@ -199,3 +199,49 @@
         <li>Basic Python 02</li>
     </ul>
 </details>
+
+
+
+
+
+## Course 5: <a href="#"> DATABASE </a>
+
+
+<details>
+    <summary>Week 1: Database Fundamentals</summary>
+    <ul>
+        <li>Logical Organization of Databases</li>
+        <li>Entity-Relationship Model</li>
+        <li>Network and Relational Data Models</li>
+        <li>Functional Dependencies and Normal Forms</li>
+        <li>Query Formulation and Language</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Week 2: Database Administration</summary>
+    <ul>
+        <li>Database Integrity and Security</li>
+        <li>Concurrency Control</li>
+        <li>Levels of Indices</li>
+        <li>Data Organization, Indexing, and Hashing</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Week 3: Advanced Querying and Optimization</summary>
+    <ul>
+        <li>Directory Systems</li>
+        <li>Advanced SQL Queries</li>
+        <li>Performance Optimization</li>
+        <li>PostgreSQL or MySQL Setup</li>
+    </ul>
+</details>
+
+## Additional Information
+- For detailed course materials and assignments, refer to the course documentation provided by your instructor.
+- Prerequisites: Basic programming knowledge and familiarity with Python.
+
+---
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
