@@ -236,7 +236,87 @@
         <li>Performance Optimization</li>
         <li>PostgreSQL or MySQL Setup</li>
     </ul>
-</details>
+<details>
+
+# Course 03: Software Development Project (Django)
+
+## Overview
+This course provides a comprehensive guide to web development using Django, a powerful web framework written in Python. Students will learn the foundations of web development, covering HTML, CSS, JavaScript, and dive deep into Django for building robust and secure web applications. Topics include Django templates, forms, models, authentication, and class-based views.
+<details>
+<summary>## Table of Contents</summary>
+- [Course Objectives](#course-objectives)
+- [Topics Covered](#topics-covered)
+- [Prerequisites](#prerequisites)
+- [Software Requirements](#software-requirements)
+- [Getting Started](#getting-started)
+- [Additional Resources](#additional-resources)
+- [License](#license)
+<details>
+<details>
+<summary>## Course Objectives</summary>
+By the end of this course, learners will be able to:
+- Understand the basics of web development with HTML, CSS, and JavaScript.
+- Set up and configure a Django project.
+- Work with Django templates for dynamic HTML rendering.
+- Create and process forms in Django.
+- Manage data with Django models and ModelForms.
+- Implement authentication and authorization using the Django Admin Panel.
+- Understand and utilize class-based views, sessions, and cookies in Django.
+<details>
+## Topics Covered
+1. **HTML & CSS**
+   - Basic HTML structure and tags.
+   - Styling web pages with CSS.
+
+2. **JavaScript**
+   - Familiarity with JavaScript basics to enhance interactivity on the client side.
+
+3. **Introduction to Django**
+   - Setting up Django projects and applications.
+   - Understanding Django's MVC (Model-View-Controller) architecture.
+
+4. **Working with Django Templates**
+   - Using Django template language to display dynamic content.
+   - Template inheritance and reusable components.
+
+5. **Working with Forms in Django**
+   - Creating and processing forms in Django.
+   - Validating user input and handling form submissions.
+
+6. **Working with Models and ModelForm in Django**
+   - Defining models to represent database structure.
+   - Using ModelForms to quickly build forms based on models.
+
+7. **Authentication and Authorization with Django Admin Panel**
+   - Using Django's built-in authentication system.
+   - Managing users, permissions, and groups via the admin panel.
+
+8. **Working with Class-Based Views (CBVs)**
+   - Introduction to class-based views and how they differ from function-based views.
+   - Working with generic views for common functionality.
+
+9. **Session vs. Cookie**
+   - Understanding the difference between sessions and cookies.
+   - Managing user data and preferences with sessions and cookies in Django.
+
+## Prerequisites
+- Basic knowledge of Python programming.
+- Familiarity with HTML and CSS.
+
+## Software Requirements
+- **Python** (version 3.6 or later): [Download Python](https://www.python.org/downloads/)
+- **Django** (latest stable version): Install using the command `pip install django`.
+
+> **Note**: You may also need a code editor (e.g., Visual Studio Code, PyCharm) and a web browser for testing your web application.
+
+## Getting Started
+1. Install Python and Django on your machine.
+2. Set up a new Django project:
+   ```bash
+   django-admin startproject myproject
+   cd myproject
+   python manage.py startapp myapp
+
 
 ## Additional Information
 - For detailed course materials and assignments, refer to the course documentation provided by your instructor.
